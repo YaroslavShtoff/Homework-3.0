@@ -13,7 +13,7 @@ public class Main {
         System.out.println(point);
         double waterTank  =50.6;
         System.out.println("объем резервуара " +waterTank+ " л ");
-        boolean pieceOfPuzzle =  puzzle > 100000;
+        boolean pieceOfPuzzle = puzzle > 100000;
         System.out.println(pieceOfPuzzle);
         char plus = 43;
         System.out.println(plus);
